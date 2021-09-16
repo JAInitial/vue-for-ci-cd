@@ -9,7 +9,7 @@ test('Original title is 「當前點擊次數0」', () => {
 //   const title = getByTestId('currentCounter');
 
 //   expect(title.innerHTML).toBe('當前點擊次數0');
-expect(1).toBe(1);
+    expect(1).toBe(1);
 });
 
 /* test('After I click button the title will change to 「當前點擊次數1」', async () => {
